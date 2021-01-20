@@ -12,8 +12,7 @@ If you are a **windows user** and you say this is a joke then just vist link bel
 -->
 
 <p align="center">
-  file://./GLOBALROOT/Device/ConDrv/KernelConnect
-   <a href="https://www.safdarkhan.ml" target="_blank"><img src="./images/click-here-button.png" width="250"/></a>
+   <a href="https://www.safdarkhan.ml/research/ScreenOfDeath.php" target="_blank"><img src="./images/click-here-button.png" width="250"/></a>
 </p>
 
 
