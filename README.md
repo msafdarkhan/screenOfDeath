@@ -9,12 +9,12 @@ If you are a **windows user** and you say this is a joke then just vist link bel
   file://./GLOBALROOT/Device/ConDrv/KernelConnect
    <a href="file:\\.\globalroot\device\condrv\kernelconnect" target="_blank"><img src="./images/click-here-button.png" width="250"/></a>
 </p>
--->
+`file://./GLOBALROOT/Device/ConDrv/KernelConnect`
 
 <p align="center">
    <a href="https://www.safdarkhan.ml/research/ScreenOfDeath.php" target="_blank"><img src="./images/click-here-button.png" width="250"/></a>
 </p>
-
+-->
 
 
 ## Is this really harmfull?
