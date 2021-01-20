@@ -7,9 +7,12 @@ If you are a **windows user** and you say this is a joke then just vist link bel
 
 
 <p align="center">
-  <a href="file://./GLOBALROOT/Device/ConDrv/KernelConnect" target="_page"><img src="./images/click-here-button.png" width="250"/></a>
+  <a href="file://./GLOBALROOT/Device/ConDrv/KernelConnect" target="_page"></a>
 </p>
 
+<!--
+<img src="./images/click-here-button.png" width="250"/>
+-->
 
 ## Is this really harmfull?
 Yes it might be butg with some addition resources with this pached Link can even crack your Harddrive, Folder and so on. Here is what same link access with additional resource could do with your computer. https://www.bleepingcomputer.com/news/security/windows-10-bug-corrupts-your-hard-drive-on-seeing-this-files-icon/
