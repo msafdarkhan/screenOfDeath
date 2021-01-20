@@ -2,8 +2,8 @@
 Author of code and Research
   - <img src="https://raw.githubusercontent.com/msafdarkhan/GPT3WithQuran/main/Images/My%20Images/Muhammad-Safdar-Khan.jpg" width="35px"> [M. Safdar Khan (Software Engineer)](https://twitter.com/theSafdarKhan)
 
-This is a secource File that broing any Windows PC uptop Windows 10 latest Update 2021 to a Screen of Death Mode
-If you are a windows user and you say this is a joke to just visting a link will fall your computer into trubleshoot mode with a screen of Death then click below link at your own risk.
+This is a source File that bring any Windows PC up to Windows 10 latest Update 2021 to a **Screen of Death** Mode
+If you are a **windows user** and you say this is a joke then just vist link below by clicking **"click Here"** Button and this will fall your computer into trubleshot mode with a **screen of Death** make sure to click on below link at your own risk and you have saved all progeams or progress and free to restart your computer.
 
 
 <p align="center">
